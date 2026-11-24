@@ -24,11 +24,6 @@ A collection of HTML, CSS and JavaScript practice exercises and mini projects co
 - Save tasks using localStorage.
 - Tasks remain after refreshing the browser.
 
-### 4. Dark Mode
-- Switch between light and dark themes.
-- Save the selected theme using localStorage.
-- Remember the selected theme after refreshing.
-
 ## Technologies Used
 - HTML5
 - CSS3
